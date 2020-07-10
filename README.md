@@ -1,4 +1,6 @@
 # Dark Fb Tool
+## For install This Toll Commandz Below
+<img src ="type.png">
 
 ## apt update && apt upgrade
 ## apt install git -y
